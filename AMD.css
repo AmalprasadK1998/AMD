@@ -1,0 +1,99 @@
+h1{
+    font: 28px "oswald",arial,sans-serif;
+}
+
+.box-1{
+    background-image: url("AMD-images/1612150-lisa-su-introducing-4th-gen-epyc_0.jpg");
+    background-size: cover;
+    min-height: 60vh;
+    
+}
+
+
+.h-1-1{
+    margin-left: 30px;
+    font-weight: bold;
+}
+.p-1-1{
+    margin-left: 30px;
+    font: 18px "oswald",arial,sans-serif;
+}
+
+
+.b-1-1{
+    margin-left: 30px;
+    margin-top: 5px;
+    padding: 10px;
+    border: 1px solid white ;
+    background-color:black ;
+    color: white;
+    font-weight: bold;
+}
+.b-1-1:hover,.b-2-1:hover{
+    background-color: grey;
+    border: none;
+}
+
+.b-1-2,.b-1-3,.b-1-4,.b-3-1,.b-3-2,.b-5-1{
+    color: black;
+    padding: 7px;
+    border: 1px solid black;
+    font-weight: bold;
+}
+
+.b-1-2:hover,.b-1-3:hover,.b-1-4:hover,
+.b-3-1:hover,.b-3-2:hover,.b-5-1:hover{
+    background-color: black;
+    color: white;
+}
+
+.b-2-1{
+    color: white;
+    background-color: transparent;
+    padding: 7px;
+    border: 1px solid white;
+    font-weight: bold;
+}
+
+.box-2{
+    background-image: url("AMD-images/1554925-pixar-banner-video-1920x600.jpg");
+    background-size: cover;
+    min-height: 60vh;
+    
+}
+
+.img-3-1,.img-3-2,.img-4-1{
+    width: 100%;
+}
+
+
+.p-3-1,.p-3-2{
+    font: 18px "oswald",arial,sans-serif;
+}
+
+.box-4{
+    background-image: url("AMD-images/1678052-rdna-background-1920x600_0.jpg");
+    min-height: 50vh;
+}
+
+.box-6,.form-6-1{
+    background-color: black;
+    color: white;
+    height: 1000px;
+}
+
+.nav-item{
+    list-style: none;
+}
+
+.dummy,.dummy-1{
+    display: none;
+}
+
+.dummy.b-5-1{
+    display: block;
+}
+
+.dummy-1.subscribe{
+    display: block;
+}
